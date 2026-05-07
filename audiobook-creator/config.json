@@ -1,0 +1,47 @@
+{
+  "outputDir": "~/Videos/audiobook",
+  "tts": {
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "+0%",
+    "volume": "+500%",
+    "novelVolume": "+800%"
+  },
+  "video": {
+    "style": "hailin",
+    "resolution": "1920x1080",
+    "fps": 30,
+    "subtitleFontSize": 52,
+    "subtitleMarginV": 60,
+    "subtitleBold": true,
+    "chapterBar": true,
+    "codec": "libx264",
+    "preset": "medium",
+    "crf": 23
+  },
+  "narration": {
+    "segmentChars": 350,
+    "charsPerMinute": 280
+  },
+  "extraChapterPatterns": [],
+  "bilibili": {
+    "copyright": 1,
+    "source": "",
+    "tid": 228
+  },
+  "feishu": {
+    "notifyUser": ""
+  },
+  "bgm": {
+    "enabled": true,
+    "file": "assets/bgm/mystery-ambient.mp3",
+    "library": {
+      "mystery": "assets/bgm/mystery-ambient.mp3",
+      "romance": "assets/bgm/romance-gentle.mp3",
+      "historical": "assets/bgm/historical-traditional.mp3",
+      "electronic": "assets/bgm/electronic-ambient.mp3"
+    },
+    "volume": 0.08,
+    "fadeIn": 3.0,
+    "fadeOut": 3.0
+  }
+}

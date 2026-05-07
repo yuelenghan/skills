@@ -1,0 +1,4 @@
+edge-tts>=6.1
+bilibili-api-python>=16.0
+Pillow>=9.0
+numpy>=1.20
