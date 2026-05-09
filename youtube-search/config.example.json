@@ -1,0 +1,42 @@
+{
+  "outputDir": "~/Videos/youtube-search",
+  "daysBack": 30,
+  "maxResults": 50,
+  "topN": 10,
+  "download": {
+    "quality": "best[height<=1080]",
+    "format": "mp4",
+    "sleepInterval": "5-15",
+    "sleepRequests": 1.5,
+    "limitRate": "5M"
+  },
+  "subtitles": {
+    "enabled": true,
+    "langs": "en,zh-Hans,zh-Hant,zh",
+    "format": "srt"
+  },
+  "filter": {
+    "excludeCJK": true,
+    "keywordMinLength": 3
+  },
+  "browser": "chrome",
+  "tts": {
+    "voice": "zh-CN-YunjianNeural",
+    "rate": "+0%"
+  },
+  "video": {
+    "subtitleFontSize": 48,
+    "subtitleFont": "PingFang SC",
+    "originalVolumePercent": 10,
+    "narrationVolumePercent": 500
+  },
+  "bilibili": {
+    "cookiePath": "",
+    "defaultTid": 182,
+    "copyright": 1,
+    "source": "YouTube",
+    "brandText": "",
+    "maxDailyPublish": 10,
+    "uploadInterval": 1800
+  }
+}

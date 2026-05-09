@@ -7,6 +7,7 @@
 | 技能 | 说明 |
 |------|------|
 | [audiobook-creator](./audiobook-creator/) | 将小说变成多集有声书视频（TTS + 字幕 + BGM），支持发布到 B站 |
+| [youtube-search](./youtube-search/) | YouTube 关键词搜索 + 过滤排序 + 下载视频和字幕，开箱即用 |
 
 ## 安装
 
