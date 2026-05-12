@@ -1,6 +1,6 @@
-# AI Agent Skills
+# Video Factory Skills
 
-通用 AI agent 技能集合。
+AI agent 视频创作技能集合。
 
 ## 可用技能
 
